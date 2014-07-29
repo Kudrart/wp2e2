@@ -161,12 +161,13 @@ Class Parse {
 
 $parse = new Parse;
 $parse->e2Host = 'localhost';
-$parse->e2Db = 'all.zagirov.name';
-$parse->e2User = 'e2';
-$parse->e2Password = 'e2';
+$parse->e2Db = 'kudrart_e2';
+$parse->e2User = 'kudrart_e2';
+$parse->e2Password = '7077856Max';
 $parse->wpHost = 'localhost';
-$parse->wpDb = 'wordpress';
-$parse->wpUser = 'e2';
-$parse->wpPassword = 'e2';
+$parse->wpDb = 'kudrart_press';
+$parse->wpUser = 'kudrart_kudrart';
+$parse->wpPassword = 'iF5ka37T!=lP';
 
-$parse->go();
+$parse->go(y);
+
